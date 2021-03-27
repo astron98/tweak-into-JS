@@ -1,0 +1,802 @@
+[
+    {
+        "battingDetails": [
+            {
+                "Name": "Ruturaj Gaikwad ",
+                "Runs": "62",
+                "Balls": "49",
+                "4s": "6",
+                "6s": "1",
+                "SR": "126.53"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "48",
+                "Balls": "34",
+                "4s": "4",
+                "6s": "2",
+                "SR": "141.18"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "30",
+                "Balls": "30",
+                "4s": "2",
+                "6s": "0",
+                "SR": "100.00"
+            }
+        ],
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "date": "Nov 1 2020",
+        "result": "Super Kings won by 9 wickets (with 7 balls remaining)",
+        "opponent": "Kings XI Punjab"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Shane Watson ",
+                "Runs": "14",
+                "Balls": "19",
+                "4s": "1",
+                "6s": "1",
+                "SR": "73.68"
+            },
+            {
+                "Name": "Ruturaj Gaikwad ",
+                "Runs": "72",
+                "Balls": "53",
+                "4s": "6",
+                "6s": "2",
+                "SR": "135.85"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "38",
+                "Balls": "20",
+                "4s": "5",
+                "6s": "1",
+                "SR": "190.00"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "1",
+                "Balls": "4",
+                "4s": "0",
+                "6s": "0",
+                "SR": "25.00"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "13",
+                "Balls": "14",
+                "4s": "1",
+                "6s": "0",
+                "SR": "92.86"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "31",
+                "Balls": "11",
+                "4s": "2",
+                "6s": "3",
+                "SR": "281.82"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 29 2020",
+        "result": "Super Kings won by 6 wickets",
+        "opponent": "Kolkata Knight Riders"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Ruturaj Gaikwad ",
+                "Runs": "65",
+                "Balls": "51",
+                "4s": "4",
+                "6s": "3",
+                "SR": "127.45"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "25",
+                "Balls": "13",
+                "4s": "2",
+                "6s": "2",
+                "SR": "192.31"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "39",
+                "Balls": "27",
+                "4s": "3",
+                "6s": "2",
+                "SR": "144.44"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "19",
+                "Balls": "21",
+                "4s": "3",
+                "6s": "0",
+                "SR": "90.48"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 25 2020",
+        "result": "Super Kings won by 8 wickets (with 8 balls remaining)",
+        "opponent": "Royal Challengers Bangalore"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Quinton de Kock †",
+                "Runs": "46",
+                "Balls": "37",
+                "4s": "5",
+                "6s": "2",
+                "SR": "124.32"
+            },
+            {
+                "Name": "Ishan Kishan ",
+                "Runs": "68",
+                "Balls": "37",
+                "4s": "6",
+                "6s": "5",
+                "SR": "183.78"
+            }
+        ],
+        "venue": "Sharjah Cricket Stadium",
+        "date": "Oct 23 2020",
+        "result": "Mum Indians won by 10 wickets (with 46 balls remaining)",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Ben Stokes ",
+                "Runs": "19",
+                "Balls": "11",
+                "4s": "3",
+                "6s": "0",
+                "SR": "172.73"
+            },
+            {
+                "Name": "Robin Uthappa ",
+                "Runs": "4",
+                "Balls": "9",
+                "4s": "0",
+                "6s": "0",
+                "SR": "44.44"
+            },
+            {
+                "Name": "Sanju Samson †",
+                "Runs": "0",
+                "Balls": "3",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            },
+            {
+                "Name": "Steven Smith (c)",
+                "Runs": "26",
+                "Balls": "34",
+                "4s": "2",
+                "6s": "0",
+                "SR": "76.47"
+            },
+            {
+                "Name": "Jos Buttler ",
+                "Runs": "70",
+                "Balls": "48",
+                "4s": "7",
+                "6s": "2",
+                "SR": "145.83"
+            }
+        ],
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "date": "Oct 19 2020",
+        "result": "Royals won by 7 wickets (with 15 balls remaining)",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Prithvi Shaw ",
+                "Runs": "0",
+                "Balls": "2",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            },
+            {
+                "Name": "Shikhar Dhawan ",
+                "Runs": "101",
+                "Balls": "58",
+                "4s": "14",
+                "6s": "1",
+                "SR": "174.14"
+            },
+            {
+                "Name": "Ajinkya Rahane ",
+                "Runs": "8",
+                "Balls": "10",
+                "4s": "1",
+                "6s": "0",
+                "SR": "80.00"
+            },
+            {
+                "Name": "Shreyas Iyer (c)",
+                "Runs": "23",
+                "Balls": "23",
+                "4s": "1",
+                "6s": "1",
+                "SR": "100.00"
+            },
+            {
+                "Name": "Marcus Stoinis ",
+                "Runs": "24",
+                "Balls": "14",
+                "4s": "1",
+                "6s": "2",
+                "SR": "171.43"
+            },
+            {
+                "Name": "Alex Carey †",
+                "Runs": "4",
+                "Balls": "7",
+                "4s": "0",
+                "6s": "0",
+                "SR": "57.14"
+            },
+            {
+                "Name": "Axar Patel ",
+                "Runs": "21",
+                "Balls": "5",
+                "4s": "0",
+                "6s": "3",
+                "SR": "420.00"
+            }
+        ],
+        "venue": "Sharjah Cricket Stadium",
+        "date": "Oct 17 2020",
+        "result": "Capitals won by 5 wickets (with 1 ball remaining)",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "David Warner (c)",
+                "Runs": "9",
+                "Balls": "13",
+                "4s": "0",
+                "6s": "0",
+                "SR": "69.23"
+            },
+            {
+                "Name": "Jonny Bairstow †",
+                "Runs": "23",
+                "Balls": "24",
+                "4s": "2",
+                "6s": "0",
+                "SR": "95.83"
+            },
+            {
+                "Name": "Manish Pandey ",
+                "Runs": "4",
+                "Balls": "3",
+                "4s": "1",
+                "6s": "0",
+                "SR": "133.33"
+            },
+            {
+                "Name": "Kane Williamson ",
+                "Runs": "57",
+                "Balls": "39",
+                "4s": "7",
+                "6s": "0",
+                "SR": "146.15"
+            },
+            {
+                "Name": "Priyam Garg ",
+                "Runs": "16",
+                "Balls": "18",
+                "4s": "1",
+                "6s": "0",
+                "SR": "88.89"
+            },
+            {
+                "Name": "Vijay Shankar ",
+                "Runs": "12",
+                "Balls": "7",
+                "4s": "0",
+                "6s": "1",
+                "SR": "171.43"
+            },
+            {
+                "Name": "Rashid Khan ",
+                "Runs": "14",
+                "Balls": "8",
+                "4s": "1",
+                "6s": "1",
+                "SR": "175.00"
+            },
+            {
+                "Name": "Shahbaz Nadeem ",
+                "Runs": "5",
+                "Balls": "5",
+                "4s": "1",
+                "6s": "0",
+                "SR": "100.00"
+            },
+            {
+                "Name": "Sandeep Sharma ",
+                "Runs": "1",
+                "Balls": "2",
+                "4s": "0",
+                "6s": "0",
+                "SR": "50.00"
+            },
+            {
+                "Name": "T Natarajan ",
+                "Runs": "0",
+                "Balls": "1",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 13 2020",
+        "result": "Super Kings won by 20 runs",
+        "opponent": "Sunrisers Hyderabad"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Shane Watson ",
+                "Runs": "14",
+                "Balls": "18",
+                "4s": "3",
+                "6s": "0",
+                "SR": "77.78"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "8",
+                "Balls": "10",
+                "4s": "0",
+                "6s": "0",
+                "SR": "80.00"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "42",
+                "Balls": "40",
+                "4s": "4",
+                "6s": "0",
+                "SR": "105.00"
+            },
+            {
+                "Name": "Narayan Jagadeesan ",
+                "Runs": "33",
+                "Balls": "28",
+                "4s": "4",
+                "6s": "0",
+                "SR": "117.86"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "10",
+                "Balls": "6",
+                "4s": "0",
+                "6s": "1",
+                "SR": "166.67"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "0",
+                "Balls": "1",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "7",
+                "Balls": "6",
+                "4s": "1",
+                "6s": "0",
+                "SR": "116.67"
+            },
+            {
+                "Name": "Dwayne Bravo ",
+                "Runs": "7",
+                "Balls": "5",
+                "4s": "0",
+                "6s": "0",
+                "SR": "140.00"
+            },
+            {
+                "Name": "Deepak Chahar ",
+                "Runs": "5",
+                "Balls": "5",
+                "4s": "0",
+                "6s": "0",
+                "SR": "100.00"
+            },
+            {
+                "Name": "Shardul Thakur ",
+                "Runs": "1",
+                "Balls": "1",
+                "4s": "0",
+                "6s": "0",
+                "SR": "100.00"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 10 2020",
+        "result": "RCB won by 37 runs",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Shane Watson ",
+                "Runs": "50",
+                "Balls": "40",
+                "4s": "6",
+                "6s": "1",
+                "SR": "125.00"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "17",
+                "Balls": "10",
+                "4s": "3",
+                "6s": "0",
+                "SR": "170.00"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "30",
+                "Balls": "27",
+                "4s": "3",
+                "6s": "0",
+                "SR": "111.11"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "11",
+                "Balls": "12",
+                "4s": "1",
+                "6s": "0",
+                "SR": "91.67"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "17",
+                "Balls": "11",
+                "4s": "1",
+                "6s": "1",
+                "SR": "154.55"
+            },
+            {
+                "Name": "Kedar Jadhav ",
+                "Runs": "7",
+                "Balls": "12",
+                "4s": "1",
+                "6s": "0",
+                "SR": "58.33"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "21",
+                "Balls": "8",
+                "4s": "3",
+                "6s": "1",
+                "SR": "262.50"
+            }
+        ],
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "date": "Oct 7 2020",
+        "result": "KKR won by 10 runs",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Shane Watson ",
+                "Runs": "83",
+                "Balls": "53",
+                "4s": "11",
+                "6s": "3",
+                "SR": "156.60"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "87",
+                "Balls": "53",
+                "4s": "11",
+                "6s": "1",
+                "SR": "164.15"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 4 2020",
+        "result": "Super Kings won by 10 wickets (with 14 balls remaining)",
+        "opponent": "Kings XI Punjab"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "22",
+                "Balls": "19",
+                "4s": "4",
+                "6s": "0",
+                "SR": "115.79"
+            },
+            {
+                "Name": "Shane Watson ",
+                "Runs": "1",
+                "Balls": "6",
+                "4s": "0",
+                "6s": "0",
+                "SR": "16.67"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "8",
+                "Balls": "9",
+                "4s": "1",
+                "6s": "0",
+                "SR": "88.89"
+            },
+            {
+                "Name": "Kedar Jadhav ",
+                "Runs": "3",
+                "Balls": "10",
+                "4s": "0",
+                "6s": "0",
+                "SR": "30.00"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "47",
+                "Balls": "36",
+                "4s": "4",
+                "6s": "1",
+                "SR": "130.56"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "50",
+                "Balls": "35",
+                "4s": "5",
+                "6s": "2",
+                "SR": "142.86"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "15",
+                "Balls": "5",
+                "4s": "0",
+                "6s": "2",
+                "SR": "300.00"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Oct 2 2020",
+        "result": "Sunrisers won by 7 runs",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Murali Vijay ",
+                "Runs": "10",
+                "Balls": "15",
+                "4s": "1",
+                "6s": "0",
+                "SR": "66.67"
+            },
+            {
+                "Name": "Shane Watson ",
+                "Runs": "14",
+                "Balls": "16",
+                "4s": "1",
+                "6s": "1",
+                "SR": "87.50"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "43",
+                "Balls": "35",
+                "4s": "4",
+                "6s": "0",
+                "SR": "122.86"
+            },
+            {
+                "Name": "Ruturaj Gaikwad ",
+                "Runs": "5",
+                "Balls": "10",
+                "4s": "0",
+                "6s": "0",
+                "SR": "50.00"
+            },
+            {
+                "Name": "Kedar Jadhav ",
+                "Runs": "26",
+                "Balls": "21",
+                "4s": "3",
+                "6s": "0",
+                "SR": "123.81"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "15",
+                "Balls": "12",
+                "4s": "2",
+                "6s": "0",
+                "SR": "125.00"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "12",
+                "Balls": "9",
+                "4s": "1",
+                "6s": "0",
+                "SR": "133.33"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "1",
+                "Balls": "2",
+                "4s": "0",
+                "6s": "0",
+                "SR": "50.00"
+            }
+        ],
+        "venue": "Dubai International Cricket Stadium",
+        "date": "Sep 25 2020",
+        "result": "Capitals won by 44 runs",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Murali Vijay ",
+                "Runs": "21",
+                "Balls": "21",
+                "4s": "3",
+                "6s": "0",
+                "SR": "100.00"
+            },
+            {
+                "Name": "Shane Watson ",
+                "Runs": "33",
+                "Balls": "21",
+                "4s": "1",
+                "6s": "4",
+                "SR": "157.14"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "72",
+                "Balls": "37",
+                "4s": "1",
+                "6s": "7",
+                "SR": "194.59"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "17",
+                "Balls": "6",
+                "4s": "1",
+                "6s": "2",
+                "SR": "283.33"
+            },
+            {
+                "Name": "Ruturaj Gaikwad ",
+                "Runs": "0",
+                "Balls": "1",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            },
+            {
+                "Name": "Kedar Jadhav ",
+                "Runs": "22",
+                "Balls": "16",
+                "4s": "3",
+                "6s": "0",
+                "SR": "137.50"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "29",
+                "Balls": "17",
+                "4s": "0",
+                "6s": "3",
+                "SR": "170.59"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "1",
+                "Balls": "2",
+                "4s": "0",
+                "6s": "0",
+                "SR": "50.00"
+            }
+        ],
+        "venue": "Sharjah Cricket Stadium",
+        "date": "Sep 22 2020",
+        "result": "Royals won by 16 runs",
+        "opponent": "Chennai Super Kings"
+    },
+    {
+        "battingDetails": [
+            {
+                "Name": "Murali Vijay ",
+                "Runs": "1",
+                "Balls": "7",
+                "4s": "0",
+                "6s": "0",
+                "SR": "14.29"
+            },
+            {
+                "Name": "Shane Watson ",
+                "Runs": "4",
+                "Balls": "5",
+                "4s": "1",
+                "6s": "0",
+                "SR": "80.00"
+            },
+            {
+                "Name": "Faf du Plessis ",
+                "Runs": "58",
+                "Balls": "44",
+                "4s": "6",
+                "6s": "0",
+                "SR": "131.82"
+            },
+            {
+                "Name": "Ambati Rayudu ",
+                "Runs": "71",
+                "Balls": "48",
+                "4s": "6",
+                "6s": "3",
+                "SR": "147.92"
+            },
+            {
+                "Name": "Ravindra Jadeja ",
+                "Runs": "10",
+                "Balls": "5",
+                "4s": "2",
+                "6s": "0",
+                "SR": "200.00"
+            },
+            {
+                "Name": "Sam Curran ",
+                "Runs": "18",
+                "Balls": "6",
+                "4s": "1",
+                "6s": "2",
+                "SR": "300.00"
+            },
+            {
+                "Name": "MS Dhoni (c)†",
+                "Runs": "0",
+                "Balls": "2",
+                "4s": "0",
+                "6s": "0",
+                "SR": "0.00"
+            }
+        ],
+        "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+        "date": "Sep 19 2020",
+        "result": "Super Kings won by 5 wickets (with 4 balls remaining)",
+        "opponent": "Mumbai Indians"
+    }
+]
